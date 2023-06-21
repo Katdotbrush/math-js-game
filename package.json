@@ -1,0 +1,16 @@
+{
+  "name": "math-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli-game.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kat.brush",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
